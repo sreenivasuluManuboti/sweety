@@ -1,0 +1,15 @@
+th{
+    background-color: yellowgreen;
+    color: white;
+}
+tbody{
+    background-color: lightgreen;
+}
+table{
+    background-color: black;
+}
+table{
+    width: 80%;
+    margin: auto ;
+    text-align: center;
+}
